@@ -379,7 +379,7 @@ display: flex;
 }
 .body5{
     background: url("img/tm-bg-4.jpeg")  center  fixed;
-    background-size: 1500px 750px;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 .ustbilgikutusu,.hedefkutusu,.iletisim{
