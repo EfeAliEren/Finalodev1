@@ -474,6 +474,53 @@ display: flex;
     font-size: x-large;
     font-weight: bolder;
 }
+@media only screen and (min-width: 1400px) {
+    .menulistealt {
+        margin-left: 5%;
+    }
+    .ortayazilar{
+        margin-left: 10%;
+    }
+    .sosyalmedyalink{
+        margin-left: 47%;
+    }
+    .copyright{
+        margin-top: 25%;
+    }
+    .resimler{
+        margin-left: 10%;
+        margin-top: 20%;
+    }
+    .resimlerr{
+        margin-left: 40%;
+    }
+    .resimlerrr{
+        margin-left: 70%;
+    }
+    .resimler2,.resimlerrr3{
+        margin-left: 10%;
+        margin-top: 10%;
+    }
+    .resimlerr2{
+        margin-left: 40%;
+    }
+    .resimlerrr2{
+        margin-left: 70%;
+    }
+    .thirdresim,.thirdresim3,.thirdresim5{
+        margin-left: 10%;
+    }
+    .thirdresim1,.thirdresim2,.thirdresim4{
+        margin-left: 50%;
+    }
+    .contactkutu{
+        margin-left: 10%;
+    }
+    .harita{
+        margin-left: 50%;
+    }
+
+  }
 
 
 
